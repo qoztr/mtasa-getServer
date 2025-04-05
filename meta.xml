@@ -1,4 +1,6 @@
 <meta>
 	<script src = "shared.lua" type = "shared" cache = "false" />
 	<script src = "server.lua" type = "server" cache = "false" />
+
+	<export function = "getServer" type = "shared" />
 </meta>
